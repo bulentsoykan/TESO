@@ -57,7 +57,7 @@ Before installing TESO, make sure you have:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/TESO.git
+   git clone https://github.com/bulentsoykan/TESO.git
    cd TESO
    ```
 
@@ -192,7 +192,7 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 For questions, comments, or suggestions, please reach out to:
 
 - **Bulent Soykan**
-- **web:** [bulentsoykan.com] (https://bulentsoykan.com) 
+- **web:** [bulentsoykan.com](https://bulentsoykan.com) 
 
 
 ---
