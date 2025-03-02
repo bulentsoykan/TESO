@@ -1,3 +1,27 @@
+Metadata-Version: 2.2
+Name: teso
+Version: 0.1.0
+Summary: TESO – Tabu‐Enhanced Simulation Optimization using memory strategies and tabu search.
+Home-page: https://github.com/bulentsoykan/teso
+Author: Bulent Soykan
+Author-email: Bulent Soykan <soykanb@gmail.com>
+License: MIT License
+Project-URL: Homepage, https://github.com/bulentsoykan/TESO
+Project-URL: Repository, https://github.com/bulentsoykan/TESO
+Keywords: simulation,optimization,tabu search,simulation optimization
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: mrg32k3a
+Requires-Dist: simopt
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
+
 # TESO – Tabu‐Enhanced Simulation Optimization
 
 **TESO** is a Python package that implements a simulation optimization algorithm based on tabu search and complex memory strategies.  

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+teso/teso.egg-info/PKG-INFO
+teso/teso.egg-info/SOURCES.txt
+teso/teso.egg-info/dependency_links.txt
+teso/teso.egg-info/requires.txt
+teso/teso.egg-info/top_level.txt
