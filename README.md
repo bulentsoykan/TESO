@@ -1,5 +1,15 @@
 # TESO – Tabu‐Enhanced Simulation Optimization
 
+<p align="center">
+  <img src="assets/teso.png" alt="TESO Logo" width="300">
+</p>
+
+<p align="center">
+  <em>Presented at the Winter Simulation Conference 2025, Seattle, Washington (December 7–10, 2025)</em>
+</p>
+
+---
+
 **TESO** is a Python package that implements a simulation optimization algorithm based on tabu search and complex memory strategies.  
 TESO is designed to efficiently solve simulation problems with noisy objectives by combining:
 
